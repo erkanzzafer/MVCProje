@@ -77,3 +77,14 @@ C:\Users\PC\source\repos\MVCProje\MVCProje\obj\Debug\MVCProje.csproj.CoreCompile
 C:\Users\PC\source\repos\MVCProje\MVCProje\obj\Debug\MVCProje.csproj.CopyComplete
 C:\Users\PC\source\repos\MVCProje\MVCProje\obj\Debug\MVCProje.dll
 C:\Users\PC\source\repos\MVCProje\MVCProje\obj\Debug\MVCProje.pdb
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\BusinessLayer.dll
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\DataAccessLayer.dll
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\EntityLayer.dll
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\EntityFramework.dll
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\BusinessLayer.pdb
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\BusinessLayer.dll.config
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\DataAccessLayer.pdb
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\DataAccessLayer.dll.config
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\EntityLayer.pdb
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\EntityLayer.dll.config
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\EntityFramework.xml

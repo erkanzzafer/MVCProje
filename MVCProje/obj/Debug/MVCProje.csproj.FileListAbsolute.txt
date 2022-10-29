@@ -88,3 +88,11 @@ C:\Users\PC\source\repos\MVCProje\MVCProje\bin\DataAccessLayer.dll.config
 C:\Users\PC\source\repos\MVCProje\MVCProje\bin\EntityLayer.pdb
 C:\Users\PC\source\repos\MVCProje\MVCProje\bin\EntityLayer.dll.config
 C:\Users\PC\source\repos\MVCProje\MVCProje\bin\EntityFramework.xml
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\FluentValidation.dll
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\FluentValidation.xml
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\source\repos\MVCProje\MVCProje\bin\System.Threading.Tasks.Extensions.xml

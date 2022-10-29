@@ -15,3 +15,13 @@ C:\Users\PC\source\repos\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\PC\source\repos\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
 C:\Users\PC\source\repos\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
 C:\Users\PC\source\repos\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
+C:\Users\PC\source\repos\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_title_add.resources
+C:\Users\PC\source\repos\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesizechange.resources
+C:\Users\PC\source\repos\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writerstatusadded.resources
+C:\Users\PC\source\repos\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contentstatusadded.resources
+C:\Users\PC\source\repos\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_headingstatusadded.resources
+C:\Users\PC\source\repos\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addMessageClass.resources
+C:\Users\PC\source\repos\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.contact_addDate.resources
+C:\Users\PC\source\repos\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addimage_file.resources
+C:\Users\PC\source\repos\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_admin_table.resources
